@@ -33,7 +33,7 @@ git fetch --all --tags --prune --prune-tags \
 
 | Name | Version |
 |------|---------|
-| <a name="provider_azurerm"></a> [azurerm](#provider\_azurerm) | 4.14.0 |
+| <a name="provider_azurerm"></a> [azurerm](#provider\_azurerm) | 4.22.0 |
 
 ## Modules
 
